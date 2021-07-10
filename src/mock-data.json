@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "fullName": "Nikola Tesla",
+      "userName": "tesla_electro369",
+      "email": "elctro.tesla@email.com",
+      "phoneNumber": "369-693-9639",
+      "website": "https://nikolatesla.org"
+    },
+    {
+        "id": 2,
+        "fullName": "Jenny Chan",
+        "userName": "Chan90754",
+        "email": "jenny.chan@email.com",
+        "phoneNumber": "333-962-7516",
+        "website": "https://jennychan.org"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Stark",
+      "userName": "Stark4322",
+      "email": "tony.tech@email.com",
+      "phoneNumber": "345-765-4556",
+      "website": "https://tonysciencelab.com"
+    },
+    {
+      "id": 4,
+      "fullName": "jessica watson",
+      "userName": "jessi8055",
+      "email": "jessi.watson@email.com",
+      "phoneNumber": "326-785-8763",
+      "website": "https://jessilifestyle.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Edward Snowden",
+      "userName": "Signal90786",
+      "email": "signal.eds@email.com",
+      "phoneNumber": "978-345-7584",
+      "website": "https://edwardsnowden.org"
+    }
+  ]
